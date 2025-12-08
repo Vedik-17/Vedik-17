@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+🏫👨‍🎓 Currently studying Computer Science at Sreyas Institute of Engineering and Technology, IN.
+👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning .
+💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐.
+🎮 I'm a Casual Gamer.
+☕ Everything in I.T. requires coffee.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedik_reddy.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M.Vedik Reddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedikreddym2005@gmail.com) 
