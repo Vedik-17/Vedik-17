@@ -1,8 +1,12 @@
 ## Hi there 👋
 🏫👨‍🎓 Currently studying Computer Science at Sreyas Institute of Engineering and Technology, IN.
-👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning .
-💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐.
+
+👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning . 
+
+💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐. 
+
 🎮 I'm a Casual Gamer.
+
 ☕ Everything in I.T. requires coffee.
 
 ## 🌐 Socials:
