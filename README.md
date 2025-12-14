@@ -1,7 +1,8 @@
 ## Hi there 👋
+I'm Mendu Vedik Reddy
 🏫👨‍🎓 Currently studying Computer Science at Sreyas Institute of Engineering and Technology, IN.
 
-👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning . 
+👨‍💻 I'm passionate about Computer Science and Engineering. 
 
 💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐. 
 
