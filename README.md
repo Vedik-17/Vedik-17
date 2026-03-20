@@ -6,7 +6,7 @@ I'm Mendu Vedik Reddy
 
 💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐. 
 
-🎮 I'm a Casual Gamer.
+🎮 I'm a Casual Gamer..
 
 ☕ Everything in I.T. requires coffee.
 
